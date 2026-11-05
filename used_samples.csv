@@ -1,0 +1,801 @@
+set,date,engine,folder,patch,key,slot,source
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,1,kick,Monte Booker Sounds 3/kick/LB KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,2,kick,Monte Booker Sounds 3/kick/same ole monte kick with less release.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,3,kick,Monte Booker Sounds 3/kick/ZM KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,4,kick,Monte Booker Sounds 3/kick/VM KICK CLIPPPPN.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,5,snare,Monte Booker Sounds 3/snareclap/LPH SNARE 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,6,snare,Monte Booker Sounds 3/snareclap/a snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,7,snare,Monte Booker Sounds 3/snareclap/love this snare .wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,8,snare,Monte Booker Sounds 3/snareclap/VM SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,9,clap,Monte Booker Sounds 3/snareclap/LB CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,10,clap,Monte Booker Sounds 3/snareclap/OXY WATER CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,11,rim,Monte Booker Sounds 3/perc/3D RIM.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,12,hat,Monte Booker Sounds 3/hats/LB HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,13,hat,Monte Booker Sounds 3/perc/B2 SHAKER 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,14,hat,Monte Booker Sounds 3/hats/B2 LASER HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,15,ohat,Monte Booker Sounds 3/hats/LB ANALOG OPEN 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,16,ohat,Monte Booker Sounds 3/hats/BS OPEN.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,17,perc,Monte Booker Sounds 3/perc/HR EWW LASER.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,18,perc,Monte Booker Sounds 3/perc/RGL SCRATCH PHASED.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,19,perc,Monte Booker Sounds 3/perc/RN TUBBY PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,20,perc,Monte Booker Sounds 3/foley/RN AIR.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,21,cymbal,Monte Booker Sounds 3/perc/indie ride.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,22,808,Monte Booker Sounds 3/bass/LB SUB.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,23,fx,Monte Booker Sounds 3/foley/random noise.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,01_monte_bounce,24,fx,Monte Booker Sounds 3/foley/OXY SAW SWEEP.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,1,kick,monte booker sounds/blkswn/amphetamine/AMPH KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,2,kick,monte booker sounds/blkswn/edgar allan poe'd up/EAPU KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,3,kick,monte booker sounds/blkswn/flea flicka/FF KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,4,kick,monte booker sounds/blkswn/silk pillows/SP KICK 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,5,snare,monte booker sounds/blkswn/amphetamine/AMPH SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,6,snare,monte booker sounds/blkswn/blkoscars/BO CHOP SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,7,snare,monte booker sounds/blkswn/wild irish roses/WILD SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,8,snare,monte booker sounds/blkswn/netflix & dusse/ND SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,9,clap,monte booker sounds/blkswn/amphetamine/AMPH CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,10,clap,monte booker sounds/blkswn/innamission/IN CLAP 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,11,rim,monte booker sounds/blkswn/edgar allan poe'd up/EAPU SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,12,hat,monte booker sounds/blkswn/amphetamine/AMPH HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,13,hat,monte booker sounds/blkswn/amphetamine/AMPH LIVE HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,14,hat,monte booker sounds/blkswn/wild irish roses/WILD SHAKER.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,15,ohat,monte booker sounds/blkswn/amphetamine/AMPH OPEN HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,16,ohat,monte booker sounds/blkswn/netflix & dusse/ND OPEN.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,17,perc,monte booker sounds/blkswn/amphetamine/AMPH PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,18,perc,monte booker sounds/blkswn/ricky millions/RM PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,19,perc,monte booker sounds/blkswn/long run/LR PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,20,perc,monte booker sounds/blkswn/innamission/IN FOLEY.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,21,cymbal,monte booker sounds/blkswn/netflix & dusse/ND CRASH.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,22,808,monte booker sounds/blkswn/long run/LR SUB.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,23,fx,monte booker sounds/blkswn/blkoscars/BO WEIRD NOISE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,02_blkswn,24,fx,monte booker sounds/blkswn/long run/LR RANDOM NOISE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,1,kick,monte booker sounds/monte favorites/klink/KLINK KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,2,kick,monte booker sounds/monte favorites/may/MAY DUB KICK-24b.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,3,kick,monte booker sounds/sounds tape/maple/MAPLE KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,4,kick,monte booker sounds/sounds tape/shordie/SHORDIE REVERSE KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,5,snare,monte booker sounds/monte favorites/may/MAY SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,6,snare,monte booker sounds/monte favorites/may/MAY SNARE CHOP.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,7,snare,monte booker sounds/sounds tape/stay/STAY SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,8,snare,monte booker sounds/monte favorites/may/MAY SNARE CRASH.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,9,clap,monte booker sounds/sounds tape/stay/STAY SMALL CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,10,clap,monte booker sounds/sounds tape/transition/TRAN CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,11,rim,monte booker sounds/monte favorites/z4l/Z4L TRAP RIM.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,12,hat,monte booker sounds/sounds tape/feel good/FEEL HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,13,hat,monte booker sounds/monte favorites/may/MAY CRUNCHY HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,14,hat,monte booker sounds/monte favorites/may/MAY SHAKER-24b.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,15,ohat,monte booker sounds/monte favorites/spin move/SM OPEN.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,16,ohat,monte booker sounds/sounds tape/i luv all of/LUV OPEN HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,17,perc,monte booker sounds/sounds tape/astro/ASTRO OP1 PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,18,perc,monte booker sounds/monte favorites/z4l/Z4L PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,19,perc,monte booker sounds/monte favorites/raindrop droptop/RD FOLEY 3.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,20,perc,monte booker sounds/monte favorites/raindrop droptop/RD PERC 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,21,cymbal,monte booker sounds/monte favorites/raindrop droptop/RD REV CRASH.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,22,808,monte booker sounds/sounds tape/maple/MAPLE LOW SUB.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,23,fx,monte booker sounds/sounds tape/stay/STAY OP1 NOISE.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,03_sounds_tape,24,fx,monte booker sounds/monte favorites/may/MAY FX.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,1,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Kick 15 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,2,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Kick 31 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,3,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Kick 22 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,4,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Kick 4 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,5,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 20 Buzz - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,6,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 11 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,7,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 7 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,8,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 23 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,9,clap,A collection of the kounts free sample packs/drums/claps/KOUNT CLAP 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,10,clap,A collection of the kounts free sample packs/drums/claps/KOUNT CLAP 3.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,11,rim,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 21 Buzz - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,12,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Hi Hat 7 Tip - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,13,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Hi Hat 2 Edge - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,14,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Hi Hat 5 Edge - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,15,ohat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Hi Hat 13 Open - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,16,ohat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Hi Hat 11 Open - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,17,perc,A collection of the kounts free sample packs/drums/percs/KOUNT HANDDRUM.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,18,perc,A collection of the kounts free sample packs/drums/percs/Op Stomp?.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,19,perc,A collection of the kounts free sample packs/drums/percs/Hundo Bell Perc.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,20,perc,A collection of the kounts free sample packs/drums/percs/KOUNT PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,21,cymbal,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Ride 6 Bell - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,22,808,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Kick 12 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,23,fx,A collection of the kounts free sample packs/fx/Kaelin box fx.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,04_reel_soul,24,fx,A collection of the kounts free sample packs/fx/Rev Fx.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,1,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 9 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,2,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 3 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,3,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 10 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,4,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 17 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,5,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Snare 1 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,6,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Snare 13 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,7,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Snare 7 Buzz - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,8,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Snare 5 Ghost - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,9,clap,A collection of the kounts free sample packs/drums/claps/Operator Clap.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,10,clap,A collection of the kounts free sample packs/drums/claps/Shakedown Clap.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,11,rim,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Snare 3 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,12,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 15 Tip - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,13,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 7 Tip - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,14,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 17 Tip - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,15,ohat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 24 Open - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,16,ohat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 19 Open - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,17,perc,artist drumkits/Percs-A/Perc (Juice WRLD - Hear Me Calling).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,18,perc,artist drumkits/Percs-A/perc [funk].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,19,perc,artist drumkits/Percs-A/The Stomp used in every episode.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,20,perc,artist drumkits/Percs-A/perc [a].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,21,cymbal,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 22 Open - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,22,808,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 6 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,23,fx,artist drumkits/FX-A/fx [med].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,05_reel_soul_2,24,fx,artist drumkits/FX-A/misc [kek mira].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,1,kick,The Kount Kount Drums Vol. 6/Kicks/Prioritiy Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,2,kick,Kount Drums Vol. 5/Kicks/Rib Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,3,kick,The Kount Kount Drums Vol. 6/Kicks/Sunken Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,4,kick,The Kount Kount Drums Vol. 6/Kicks/Stamp Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,5,snare,Kount Drums Vol. 5/Snares/Mass Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,6,snare,The Kount Kount Drums Vol. 6/Snares_Claps/Tweed Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,7,snare,Kount Drums Vol. 5/Snares/Care Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,8,snare,Kount Drums Vol. 5/Snares/Roman Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,9,clap,Kount Drums Vol. 5/Snares/Handle Clap.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,10,clap,The Kount Kount Drums Vol. 6/Snares_Claps/Toast Clap.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,11,rim,Kount Drums Vol. 5/Snares/Muffle Rimshot.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,12,hat,Kount Drums Vol. 5/Hihats/Brew Hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,13,hat,Kount Drums Vol. 5/Hihats/Hip Hat 3.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,14,hat,Kount Drums Vol. 5/Hihats/Teen Hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,15,ohat,The Kount Kount Drums Vol. 6/Hihats/Lobby Hat Open.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,16,ohat,The Kount Kount Drums Vol. 6/Hihats/Otari Hat Open.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,17,perc,A collection of the kounts free sample packs/drums/percs/KOUNT HANDDRUM 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,18,perc,artist drumkits/Percs-A/Maxo Kream - The Cave Cowbell.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,19,perc,A collection of the kounts free sample packs/drums/percs/Flexatone Perc.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,20,perc,artist drumkits/Percs-A/Perc 2 (J Cole - Middle Child).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,21,cymbal,The Kount Kount Drums Vol. 6/Hihats/Butter Hat Open.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,22,808,The Kount Kount Drums Vol. 6/Kicks/Broom Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,23,fx,A collection of the kounts free sample packs/fx/Bubble fx : lead.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,06_kount_dusty,24,fx,Kount Drums Vol. 5/Textures/Vinyl Hallucination Texture.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,1,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_swag.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,2,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_lemonade_burnt.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,3,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_batter_short_dark_layered.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,4,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_boom_hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,5,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_magic_pop.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,6,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_freaky.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,7,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_ear_candy.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,8,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_layer_this_on_a_snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,9,clap,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_clap_pitched_down.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,10,clap,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_clap_blob.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,11,rim,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_rim_selfcheckout_C.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,12,hat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_soft_tap.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,13,hat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_full.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,14,hat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_shiny.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,15,ohat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/FX/FX_Hits/KA_SWUNG_fx_alien_tech_oh.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,16,ohat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_bulk_open.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,17,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_laser_impact.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,18,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_high_A.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,19,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_glass_bender_direct.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,20,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_hard_shiny.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,21,cymbal,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_cymbal_sharp_ring.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,22,808,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/808s/KA_SWUNG_808_dark_quiet_C.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,23,fx,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/FX/Risers/KA_SWUNG_fx_riser_bassy_deep.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,07_swung_pocket,24,fx,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/FX/FX_Hits/KA_SWUNG_fx_glitch_high.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,1,kick,artist drumkits/Kicks-A/kick [moon].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,2,kick,artist drumkits/Kicks-A/Kick (Jocelyn Flores).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,3,kick,artist drumkits/Kicks-A/Kick (Sierra Leone).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,4,kick,artist drumkits/Kicks-A/Kick (Shadows).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,5,snare,artist drumkits/Snares-A/Snare (Sierra Leone).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,6,snare,artist drumkits/Snares-A/Snare 2 (YNW Melly - Murder On My Mind).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,7,snare,artist drumkits/Snares-A/snare [shish].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,8,snare,artist drumkits/Snares-A/Snare (Sweatpants).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,9,clap,artist drumkits/Claps-A/Clap (Thinkin Bout You).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,10,clap,artist drumkits/Snaps-A/snap [marley].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,11,rim,artist drumkits/Percs-A/Freddie Gibbs - The Cave Rim.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,12,hat,artist drumkits/Hi-Hats-A/Closed Hat (Is There Any Love).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,13,hat,artist drumkits/Hi-Hats-A/hh [drip].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,14,hat,artist drumkits/Hi-Hats-A/Hat 2 (Eminem - Killshot).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,15,ohat,artist drumkits/FX-A/Open Hat (Worldstar).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,16,ohat,artist drumkits/Hi-Hats-A/oh [npc].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,17,perc,artist drumkits/Percs-A/Bongo (Late Night In Kauai).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,18,perc,artist drumkits/Percs-A/perc [kiss].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,19,perc,artist drumkits/Percs-A/Stomp (See You Again).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,20,perc,artist drumkits/Percs-A/Perc 2 (City Girls - Act Up).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,21,cymbal,artist drumkits/Cymbals/CLOSE TO YOU CYMBAL.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,22,808,artist drumkits/808-A/808 [low].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,23,fx,artist drumkits/FX-A/fx [cake].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,08_trap_808,24,fx,artist drumkits/FX-A/misc [snitch].wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,1,kick,Prrrrrrr Samplebank Vol.1/Kicks/Prrrrrrr - Kicks -  (18)-24b.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,2,kick,Prrrrrrr_Samplebank_Vol.2/Kicks/Kick Overhead (16).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,3,kick,Prrrrrrr_Samplebank_Vol.2/Kicks/Kick Overhead (5).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,4,kick,Prrrrrrr Samplebank Vol.1/Kicks/Prrrrrrr - Kicks -  (14).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,5,snare,Prrrrrrr_Samplebank_Vol.2/Snares/Snare (12).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,6,snare,Prrrrrrr_Samplebank_Vol.2/Snares/Snare (1).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,7,snare,Prrrrrrr_Samplebank_Vol.2/Snares/Snare Overhead (7).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,8,snare,Prrrrrrr_Samplebank_Vol.2/Snares/Snare (16).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,9,clap,Prrrrrrr_Samplebank_Vol.3/SNARE_CLAP/SNR_CLP_12.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,10,clap,Prrrrrrr Samplebank Vol.1/Snare_Claps/Prrrrrrr - Claps -  (7).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,11,rim,Prrrrrrr_Samplebank_Vol.2/Snares/Snare Overhead (12).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,12,hat,Prrrrrrr Samplebank Vol.1/Hats_Shaker/Prrrrrrr - Hats -  (17).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,13,hat,Prrrrrrr Samplebank Vol.1/Hats_Shaker/Prrrrrrr - Hats -  (22).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,14,hat,Prrrrrrr Samplebank Vol.1/Hats_Shaker/Prrrrrrr - Hats -  (4).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,15,ohat,Prrrrrrr_Samplebank_Vol.3/HIHAT_SHAKER/HHT_SHKR_3.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,16,ohat,Prrrrrrr Samplebank Vol.1/Hats_Shaker/Prrrrrrr - Hats -  (5).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,17,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,18,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_14.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,19,perc,Prrrrrrr_Samplebank_Vol.2/Percs/Perc (9).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,20,perc,Prrrrrrr_Samplebank_Vol.2/Percs/Perc (4).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,21,cymbal,A collection of the kounts free sample packs/drums/cymbals/Spiral Crash.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,22,808,Prrrrrrr_Samplebank_Vol.2/Sub/Sub (1) C.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,23,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (16).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,09_prrr_club,24,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (1).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,1,kick,DRUM KIT ONE SHOT HIPHOP1/WAV/KICK/KICK7.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,2,kick,DRUM KIT ONE SHOT HIPHOP1/WAV/KICK/KICK2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,3,kick,DRUM KIT ONE SHOT HIPHOP1/WAV/KICK/KICK17.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,4,snare,DRUM KIT ONE SHOT HIPHOP1/WAV/SNARE/SNARE8.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,5,snare,DRUM KIT ONE SHOT HIPHOP1/WAV/SNARE/SNARE5.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,6,snare,DRUM KIT ONE SHOT HIPHOP1/WAV/SNARE/SNARE3.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,7,rim,DRUM KIT ONE SHOT HIPHOP1/WAV/SIDESTICK/SIDESTICK5.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,8,clap,DRUM KIT ONE SHOT HIPHOP1/WAV/CLAP/CLAP9.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,9,hat,DRUM KIT ONE SHOT HIPHOP1/WAV/HI HAT/HI HAT7.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,10,hat,DRUM KIT ONE SHOT HIPHOP1/WAV/TAMBOURINE/TAMBOURINE4.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,11,hat,DRUM KIT ONE SHOT HIPHOP1/WAV/HI HAT/HI HAT13.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,12,ohat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Hi Hat 12 Open - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,13,tom,DRUM KIT ONE SHOT HIPHOP1/WAV/TOMS/TOM27.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,14,tom,DRUM KIT ONE SHOT HIPHOP1/WAV/TOMS/TOM15.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,15,tom,DRUM KIT ONE SHOT HIPHOP1/WAV/TOMS/TOM2.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,16,tom,DRUM KIT ONE SHOT HIPHOP1/WAV/TOMS/TOM22.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,17,tom,DRUM KIT ONE SHOT HIPHOP1/WAV/TOMS/TOM20.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,18,tom,DRUM KIT ONE SHOT HIPHOP1/WAV/TOMS/TOM18.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,19,cymbal,DRUM KIT ONE SHOT HIPHOP1/WAV/CRASH/CRASH4.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,20,cymbal,DRUM KIT ONE SHOT HIPHOP1/WAV/CRASH/CRASH1.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,21,cymbal,DRUM KIT ONE SHOT HIPHOP1/WAV/SPLASH/SPLASH8.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,22,cymbal,DRUM KIT ONE SHOT HIPHOP1/WAV/SPLASH/SPLASH10.wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,23,perc,artist drumkits/Percs-A/Perc (Sweatpants).wav
+set01_2026-11-04,2026-11-04,drum,mc_kits,10_acoustic_hiphop,24,perc,artist drumkits/Percs-A/Perc 2 (Dababy - Suge).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,1,kick,mai Drum Kit/KICK/Juicy Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,2,kick,mai Drum Kit/KICK/Thump Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,3,kick,mai Drum Kit/KICK/Metro Southside Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,4,kick,mai Drum Kit/KICK/Kick with Hi Hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,5,snare,mai Drum Kit/SNARE/Filler Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,6,snare,mai Drum Kit/SNARE/Daxz Snare 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,7,snare,mai Drum Kit/SNARE/Wonda Filler Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,8,snare,mai Drum Kit/SNARE/Perc Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,9,clap,mai Drum Kit/CLAP/Southside Metro Clap.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,10,clap,mai Drum Kit/CLAP/Murda Clap.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,11,rim,mai Drum Kit/SNARE/Eest Wonda Snare Perc.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,12,hat,mai Drum Kit/HH/J Dilla Hi Hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,13,hat,mai Drum Kit/HH/Classic Wonda Hi Hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,14,hat,mai Drum Kit/HH/Crunchy Hi Hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,15,ohat,mai Drum Kit/OH/Open Hat 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,16,ohat,mai Drum Kit/OH/Open Hat 5.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,17,perc,mai Drum Kit/PERC/SoundCloud rapper Perc(1).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,18,perc,mai Drum Kit/PERC/Cowbell Perc.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,19,perc,mai Drum Kit/PERC/Zay Perc(1).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,20,perc,mai Drum Kit/PERC/Potato Chips Perc.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,21,cymbal,mai Drum Kit/OH/Open Hat 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,22,808,mai Drum Kit/808/Metro Southside 808.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,23,fx,mai Drum Kit/VOX/Vox 5.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,11_mai,24,fx,mai Drum Kit/VOX/Vox 6.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,1,kick,MONTE DISCORD /CC SOUNDPACK VOL1!/KIX/FUTURE KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,2,kick,MONTE DISCORD /CC SOUNDPACK VOL1!/KIX/OBSESSION KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,3,kick,MONTE DISCORD /CC SOUNDPACK VOL1!/KIX/ACTION KIK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,4,kick,MONTE DISCORD /CC SOUNDPACK VOL1!/KIX/LIMP KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,5,snare,MONTE DISCORD /CC SOUNDPACK VOL1!/SNARE/SNARE 5.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,6,snare,MONTE DISCORD /CC SOUNDPACK VOL1!/SNARE/SNARE 8.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,7,snare,MONTE DISCORD /CC SOUNDPACK VOL1!/SNARE/SNARE 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,8,snare,MONTE DISCORD /CC SOUNDPACK VOL1!/SNARE/SNARE 11.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,9,clap,MONTE DISCORD /CC SOUNDPACK VOL1!/CLAPS/CC TIGHT CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,10,clap,MONTE DISCORD /CC SOUNDPACK VOL1!/CLAPS/505 PHASER CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,11,rim,MONTE DISCORD /CC SOUNDPACK VOL1!/SNARE/SNARE 6.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,12,hat,MONTE DISCORD /CC SOUNDPACK VOL1!/HATS/HIHAT CLOSED.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,13,hat,MONTE DISCORD /CC SOUNDPACK VOL1!/HATS/SHAKER 1 .wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,14,hat,MONTE DISCORD /CC SOUNDPACK VOL1!/HATS/FUTURE TRAP HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,15,ohat,MONTE DISCORD /CC SOUNDPACK VOL1!/HATS/HIHAT OPEN SHORT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,16,ohat,MONTE DISCORD /CC SOUNDPACK VOL1!/HATS/HIHAT OPEN.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,17,perc,MONTE DISCORD /CC SOUNDPACK VOL1!/PERCC/UNCLE TOMM.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,18,perc,MONTE DISCORD /CC SOUNDPACK VOL1!/PERCC/KNOCK PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,19,perc,MONTE DISCORD /CC SOUNDPACK VOL1!/PERCC/CC DENK.aif
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,20,perc,MONTE DISCORD /CC SOUNDPACK VOL1!/PERCC/DEMBOW PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,21,cymbal,MONTE DISCORD /CC SOUNDPACK VOL1!/HATS/HIHAT OPEN SHORT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,22,808,MONTE DISCORD /CC SOUNDPACK VOL1!/BASS/ SUB BASS .wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,23,fx,MONTE DISCORD /CC SOUNDPACK VOL1!/VOX/HEH.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,12_cc_soundpack,24,fx,MONTE DISCORD /CC SOUNDPACK VOL1!/VOX/WHO!.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,1,kick,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/kickz/tiredlights_kick_tl.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,2,kick,MONTE DISCORD /! mango juice kit/~ kicks ~/sokka (kick).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,3,kick,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/kickz/tiredlights_kick_tight_machine.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,4,kick,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/kickz/tiredlights_kick_punch.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,5,snare,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/snurs/tiredlights_snare_metallic.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,6,snare,MONTE DISCORD /! mango juice kit/~ snares ~/azula (snare).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,7,snare,MONTE DISCORD /! mango juice kit/~ snares ~/appa (snare).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,8,snare,MONTE DISCORD /! mango juice kit/~ snares ~/squidward (snare).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,9,clap,MONTE DISCORD /! mango juice kit/~ snares ~/timmy turner (snare).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,10,clap,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/snurs/tiredlights_snare_crack_snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,11,rim,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/snurs/tiredlights_rim_acoustic.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,12,hat,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/hats/tiredlights_hat_low_104.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,13,hat,MONTE DISCORD /! mango juice kit/~ hats ~/cosmo (hat).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,14,hat,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/hats/tiredlights_hat_downward_dog.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,15,ohat,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/cymbals/tiredlights_cym_garage_ride_141.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,16,ohat,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/cymbals/tiredlights_cym_pitched_77.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,17,perc,MONTE DISCORD /! mango juice kit/~ percs ~/arnold (perc).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,18,perc,MONTE DISCORD /! mango juice kit/~ percs ~/momo (perc).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,19,perc,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/percushin/tiredlights_perc_shells_loose.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,20,perc,MONTE DISCORD /! mango juice kit/~ percs ~/bubble buddy (perc).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,21,cymbal,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/cymbals/tiredlights_cym_rusty_ride.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,22,808,MONTE DISCORD /! mango juice kit/~ 808 ~/larry the lobster (808).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,23,fx,MONTE DISCORD /! mango juice kit/~ random stuff ~/boing (fx).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,13_mango_tired,24,fx,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/t e x t u r e/tiredlights_texture_wrench.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,1,kick,A collection of the kounts free sample packs/drums/kicks/Magic Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,2,kick,A collection of the kounts free sample packs/drums/kicks/KOUNT KICK 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,3,kick,A collection of the kounts free sample packs/drums/kicks/KOUNT KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,4,kick,A collection of the kounts free sample packs/drums/kicks/Op Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,5,snare,A collection of the kounts free sample packs/drums/snares/Digi Spring Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,6,snare,A collection of the kounts free sample packs/drums/snares/Ghost snare 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,7,snare,A collection of the kounts free sample packs/drums/snares/Tambo Girth Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,8,snare,A collection of the kounts free sample packs/drums/snares/Sheeple Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,9,clap,A collection of the kounts free sample packs/drums/claps/Kounty Klap 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,10,clap,A collection of the kounts free sample packs/drums/claps/Everlasting Snap.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,11,rim,A collection of the kounts free sample packs/drums/snares/KOUNT SIDESTICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,12,hat,A collection of the kounts free sample packs/drums/hi-hats/vintage hat 22.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,13,hat,A collection of the kounts free sample packs/drums/hi-hats/Tickle Hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,14,hat,A collection of the kounts free sample packs/drums/hi-hats/vintage hat 15.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,15,ohat,A collection of the kounts free sample packs/drums/hi-hats/AirBrush Open Hihat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,16,ohat,A collection of the kounts free sample packs/drums/hi-hats/Fake Hat open.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,17,perc,A collection of the kounts free sample packs/drums/percs/KOUNT HANDDRUM.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,18,perc,A collection of the kounts free sample packs/drums/percs/Op Stomp?.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,19,perc,A collection of the kounts free sample packs/drums/percs/Hundo Bell Perc.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,20,perc,A collection of the kounts free sample packs/drums/percs/KOUNT PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,21,cymbal,A collection of the kounts free sample packs/drums/cymbals/Grover Sizzle Ride.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,22,808,A collection of the kounts free sample packs/drums/kicks/Civil Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,23,fx,A collection of the kounts free sample packs/fx/Kaelin box fx.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,14_kount_free,24,fx,A collection of the kounts free sample packs/fx/Rev Fx.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,1,kick,monte booker sounds/soulection white label/homealone/HOME KICK 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,2,kick,monte booker sounds/soulection white label/flight/FLIGHT KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,3,kick,monte booker sounds/soulection white label/homealone/HOME KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,4,kick,monte booker sounds/soulection white label/baby/BABY FOLEY KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,5,snare,monte booker sounds/soulection white label/baby/BABY SNARE 3.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,6,snare,monte booker sounds/soulection white label/flight/FLIGHT SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,7,snare,monte booker sounds/soulection white label/kolors/KOLORS SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,8,snare,monte booker sounds/soulection white label/baby/BABY LIVE SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,9,clap,monte booker sounds/soulection white label/homealone/HOME CLAP 3.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,10,clap,monte booker sounds/soulection white label/homealone/HOME SNAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,11,rim,monte booker sounds/soulection white label/homealone/HOME RIM.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,12,hat,monte booker sounds/soulection white label/baby/BABY VINYL HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,13,hat,monte booker sounds/soulection white label/homealone/HOME HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,14,hat,monte booker sounds/soulection white label/homealone/HOME SHAKER.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,15,ohat,monte booker sounds/soulection white label/baby/BABY HAT 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,16,ohat,monte booker sounds/soulection white label/baby/BABY SHAKER.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,17,perc,monte booker sounds/soulection white label/homealone/HOME PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,18,perc,monte booker sounds/soulection white label/baby/BABY CLAVE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,19,perc,monte booker sounds/soulection white label/baby/BABY PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,20,perc,monte booker sounds/soulection white label/kolors/KOLORS SMALL PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,21,cymbal,monte booker sounds/soulection white label/baby/BABY OPEN HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,22,808,monte booker sounds/soulection white label/flight/FLIGHT 808.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,23,fx,monte booker sounds/soulection white label/flight/FLIGHT SWEEP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,15_soulection,24,fx,monte booker sounds/soulection white label/baby/BABY MOUTH NOISE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,1,kick,Vignette Kit/Civil Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,2,kick,Vignette Kit/Jugg Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,3,kick,The Kount and Kiefer Present Big Cop/Drums/Dad Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,4,kick,Kount from Splice/KOUNTLABS_ORB_kick_boost.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,5,snare,The Kount and Kiefer Present Big Cop/Drums/Corona Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,6,snare,L.A. LOVE KIT/Tamuz -Snare 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,7,snare,Vignette Kit/Posh Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,8,snare,L.A. LOVE KIT/Kount - Grace Snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,9,clap,The Kount and Kiefer Present Big Cop/Drums/Belly Clap.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,10,clap,The Kount and Kiefer Present Big Cop/Drums/Limb Clap.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,11,rim,Kount from Splice/KOUNTLABS_ORB_rimshot_round.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,12,hat,The Kount and Kiefer Present Big Cop/Drums/Stuck Hihat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,13,hat,The Kount and Kiefer Present Big Cop/Drums/Foundation Hihat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,14,hat,L.A. LOVE KIT/Tamuz - hat 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,15,ohat,Vignette Kit/Fake Hat open.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,16,ohat,The Kount and Kiefer Present Big Cop/Drums/Alien Open Hat.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,17,perc,The Kount and Kiefer Present Big Cop/Drums/Spring Block.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,18,perc,Kount from Splice/THE_KOUNT_percussion_double_clave.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,19,perc,Kount from Splice/THE_KOUNT_percussion_verbwhip.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,20,perc,Kount from Splice/THE_KOUNT_perc_flexatone_alt.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,21,cymbal,Vignette Kit/Washed Crash.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,22,808,Vignette Kit/Art 808.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,23,fx,Vignette Kit/Kaelin box fx.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,16_kount_extras,24,fx,Vignette Kit/Spring Fx.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,1,kick,artist drumkits/Kicks-A/kick [e-trou].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,2,kick,artist drumkits/Kicks-A/kick [darwin].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,3,kick,artist drumkits/Kicks-A/Kick (J Cole - No Role Modelz).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,4,kick,artist drumkits/Kicks-A/Kick (Cudi Zone).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,5,snare,artist drumkits/Snares-A/Snare (No Exit).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,6,snare,artist drumkits/Snares-A/Snare (Make Her Say).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,7,snare,artist drumkits/Snares-A/snare [dirty].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,8,snare,artist drumkits/Snares-A/Snare (Ordinary Life).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,9,clap,artist drumkits/Claps-A/Clap (Where This Flower Blooms).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,10,clap,artist drumkits/Claps-A/clap [congratulations].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,11,rim,artist drumkits/Hi-Hats-A/Rim (We Got Love).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,12,hat,artist drumkits/Hi-Hats-A/ForestHill Hat 3.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,13,hat,artist drumkits/Hi-Hats-A/hh [southside].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,14,hat,artist drumkits/Hi-Hats-A/hh [laroche].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,15,ohat,artist drumkits/FX-A/Open Hat (Have Some Love).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,16,ohat,artist drumkits/Hi-Hats-A/oh [flang].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,17,perc,artist drumkits/Percs-A/Compressed Bongo (White).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,18,perc,artist drumkits/Percs-A/perc [garix].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,19,perc,artist drumkits/Percs-A/perc [murder].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,20,perc,artist drumkits/Percs-A/perc [dragon].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,21,cymbal,artist drumkits/Hi-Hats-A/Cymbal (Ski Mask The Slump God - Foot Fungus).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,22,808,artist drumkits/808-A/808 [ballin].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,23,fx,artist drumkits/FX-A/fx [momiscoming].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,17_trap_808_2,24,fx,artist drumkits/FX-A/fx [lighter].wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,1,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_waffle_pop.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,2,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_earthy_full.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,3,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_lumpy.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,4,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_basket_case.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,5,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_dark_pitched.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,6,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_graduated.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,7,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_newjack.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,8,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_metallic_slap.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,9,clap,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_clap_dry_short.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,10,clap,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_clap_blip_flange.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,11,rim,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_rim_punch.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,12,hat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_dark.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,13,hat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_hard_lossy.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,14,hat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_bulk.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,15,ohat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_open_pitched.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,16,ohat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_hihat_hollow_open.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,17,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_conga_infiltrated_perc.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,18,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_little_clank.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,19,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_glazed_conga.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,20,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_swipe_little.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,21,cymbal,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Hihats/KA_SWUNG_cymbal_sharp_ring.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,22,808,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/808s/KA_SWUNG_808_smooth_glide_C.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,23,fx,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/FX/Risers/KA_SWUNG_fx_riser_slow_bassy.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,18_swung_pocket_2,24,fx,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/FX/FX_Hits/KA_SWUNG_fx_sweep_dip.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,1,kick,Monte Booker Sounds 3/kick/fuck 0db kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,2,kick,Monte Booker Sounds 3/kick/PPA KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,3,kick,Monte Booker Sounds 3/kick/CRTNS KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,4,kick,Monte Booker Sounds 3/kick/BB BUBBLY KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,5,snare,Monte Booker Sounds 3/snareclap/HR SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,6,snare,Monte Booker Sounds 3/snareclap/KI ANALOG SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,7,snare,Monte Booker Sounds 3/snareclap/the homie live snare.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,8,snare,Monte Booker Sounds 3/snareclap/LPH DBX SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,9,clap,Monte Booker Sounds 3/snareclap/PPA SNAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,10,clap,Monte Booker Sounds 3/snareclap/ZM SMALL CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,11,rim,Monte Booker Sounds 3/perc/OAK RIM.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,12,hat,Monte Booker Sounds 3/hats/LB HAT 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,13,hat,Monte Booker Sounds 3/hats/the best high hat ever made.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,14,hat,Monte Booker Sounds 3/perc/B2 SHAKER.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,15,ohat,Monte Booker Sounds 3/hats/KI LONG OPEN HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,16,ohat,Monte Booker Sounds 3/hats/OAK OPEN HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,17,perc,Monte Booker Sounds 3/perc/OAK WIDE SCRATCH.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,18,perc,Monte Booker Sounds 3/foley/PPA DOOR.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,19,perc,Monte Booker Sounds 3/foley/PPA FOLEY.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,20,perc,Monte Booker Sounds 3/perc/KMP PENS.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,21,cymbal,Monte Booker Sounds 3/perc/indie ride.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,22,808,Monte Booker Sounds 3/bass/fun 808.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,23,fx,Monte Booker Sounds 3/perc/fun fx noise.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,19_monte_bounce_2,24,fx,Monte Booker Sounds 3/oneshot/VM JUNO SWEEP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,1,kick,Prrrrrrr_Samplebank_Vol.3/home battery kit Samples/KIK_3.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,2,kick,Prrrrrrr_Samplebank_Vol.3/home battery kit Samples/KIK_6.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,3,kick,Prrrrrrr_Samplebank_Vol.3/home battery kit Samples/KIK_12.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,4,kick,Prrrrrrr_Samplebank_Vol.3/battery Samples/KIK_1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,5,snare,Prrrrrrr_Samplebank_Vol.3/5 YEARS ANNIVERSARY BONUS/1968 - samples for prrrrrrr/02 - Snare 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,6,snare,Prrrrrrr_Samplebank_Vol.3/home battery kit Samples/snare2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,7,snare,Prrrrrrr_Samplebank_Vol.3/paul house beat mvsp holiday Samples/Snare (24).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,8,snare,Prrrrrrr_Samplebank_Vol.3/paul house beat mvsp holiday Samples/Snare (11).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,9,clap,Prrrrrrr_Samplebank_Vol.3/SNARE_CLAP/SNR_CLP_13.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,10,clap,Prrrrrrr Samplebank Vol.1/Snare_Claps/Prrrrrrr - Claps -  (20).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,11,rim,Prrrrrrr_Samplebank_Vol.3/home battery kit Samples/rim4.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,12,hat,Prrrrrrr_Samplebank_Vol.3/5 YEARS ANNIVERSARY BONUS/1968 - samples for prrrrrrr/04 - Hat 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,13,hat,Prrrrrrr_Samplebank_Vol.3/5 YEARS ANNIVERSARY BONUS/1968 - samples for prrrrrrr/05 - Hat 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,14,hat,artist drumkits/Hi-Hats-A/Closed Hat (Make Her Say).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,15,ohat,Prrrrrrr_Samplebank_Vol.3/HIHAT_SHAKER/HHT_SHKR_12.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,16,ohat,Prrrrrrr Samplebank Vol.1/Hats_Shaker/Prrrrrrr - Hats -  (20).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,17,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,18,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_12.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,19,perc,Prrrrrrr_Samplebank_Vol.2/Percs/Perc (14).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,20,perc,Prrrrrrr_Samplebank_Vol.2/Percs/Perc (10).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,21,cymbal,A collection of the kounts free sample packs/drums/cymbals/Washed Crash.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,22,808,Prrrrrrr_Samplebank_Vol.2/Sub/Sub (2) D.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,23,fx,Prrrrrrr_Samplebank_Vol.2/Synth & FX/FX (19).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,20_battery_home,24,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (23).wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,1,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Kick 29 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,2,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 15 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,3,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Kick 16 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,4,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 2 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,5,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 19 Ghost - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,6,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 6 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,7,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Snare 9 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,8,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Snare 14 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,9,clap,Monte Booker Sounds 3/snareclap/AL CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,10,clap,Monte Booker Sounds 3/snareclap/RN PANNED SNAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,11,rim,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 12 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,12,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Hi Hat 10 Tip - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,13,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Hi Hat 4 Edge - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,14,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 6 Edge - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,15,ohat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 23 Open - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,16,ohat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 21 Open - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,17,perc,Monte Booker Sounds 3/perc/KI WOOD.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,18,perc,Monte Booker Sounds 3/foley/PPA THUD.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,19,perc,Monte Booker Sounds 3/foley/LPH FOLEY 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,20,perc,Monte Booker Sounds 3/perc/B2 SMALL PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,21,cymbal,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Ride 2 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,22,808,Monte Booker Sounds 3/bass/3D 808.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,23,fx,monte booker sounds/sounds tape/i luv all of/LUV FX.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,21_reel_mix,24,fx,monte booker sounds/sounds tape/transition/TRAN LASER.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,1,kick,monte booker sounds/monte favorites/raindrop droptop/RD KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,2,kick,monte booker sounds/soulection white label/kolors/KOLORS KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,3,kick,MONTE DISCORD /CC SOUNDPACK VOL1!/KIX/CAPPER KICK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,4,kick,monte booker sounds/sounds tape/feel good/FEEL KICK LIVE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,5,snare,monte booker sounds/soulection white label/baby/BABY SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,6,snare,MONTE DISCORD /CC SOUNDPACK VOL1!/SNARE/SNARE 10.aif
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,7,snare,monte booker sounds/blkswn/silk pillows/SP SNARE 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,8,snare,monte booker sounds/blkswn/netflix & dusse/ND SNARE 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,9,clap,monte booker sounds/blkswn/flea flicka/FF CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,10,clap,monte booker sounds/blkswn/b role/BR SMALL CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,11,rim,monte booker sounds/sounds tape/feel good/FEEL RIM.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,12,hat,monte booker sounds/blkswn/spitshine/SS HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,13,hat,monte booker sounds/sounds tape/i luv all of/LUV HAT 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,14,hat,monte booker sounds/blkswn/long run/LR OP1 HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,15,ohat,monte booker sounds/sounds tape/astro/ASTRO OPEN HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,16,ohat,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/drums/hats/tiredlights_hat_classic_open.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,17,perc,MONTE DISCORD /CC SOUNDPACK VOL1!/PERCC/RIIIIP!.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,18,perc,monte booker sounds/sounds tape/i been rollin/IBR TOOL FOLEY IDK.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,19,perc,monte booker sounds/sounds tape/transition/TRAN PERC 3.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,20,perc,monte booker sounds/soulection white label/kolors/KOLORS SMALL PERC 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,21,cymbal,monte booker sounds/monte favorites/raindrop droptop/RD CRASH.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,22,808,monte booker sounds/blkswn/lobby kall/LK SUB.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,23,fx,monte booker sounds/monte favorites/may/MAY WEIRD NOISE-24b.wav
+set01_2026-11-04,2026-11-04,drum,mc_more,22_lofi_mix,24,fx,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/t e x t u r e/tiredlights_texture_high_wrench.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,1,kick,The Kount Kount Drums Vol. 6/Kicks/Boomer Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,2,kick,artist drumkits/Kicks-A/kick [knock].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,3,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_blob.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,4,kick,artist drumkits/Kicks-A/kick [deadline].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,5,kick,Kount Drums Vol. 5/Kicks/Landlord Kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,6,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_heavy_tite.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,7,kick,artist drumkits/Kicks-A/Kick (Eminem - Killshot).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,8,kick,artist drumkits/Kicks-A/kick [ardistisoverrated].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,9,kick,artist drumkits/Kicks-A/Kick (Dababy - Intro).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,10,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_b3_soft_clipped.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,11,kick,Monte Booker Sounds 3/kick/3D KICK YEA WE CLIPPN I KNOW.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,12,kick,artist drumkits/Kicks-A/Kick (Ordinary Life).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,13,kick,Monte Booker Sounds 3/kick/random house kick.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,14,kick,artist drumkits/Kicks-A/Kick (Pursuit of Happiness).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,15,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_synth_high.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,16,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Kick 14 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,17,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 16 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,18,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 7 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,19,kick,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Kick 18 - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,20,kick,artist drumkits/Kicks-A/Kick (Sky Might Fall).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,21,kick,artist drumkits/Kicks-A/Kick (YONKERS).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,22,kick,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Kicks/KA_SWUNG_kick_warmest.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,23,kick,artist drumkits/Kicks-A/ForestHill Kick 4.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,23_kicks,24,kick,"artist drumkits/Kicks-A/Kick (Enjoy Right Now, Today).wav"
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,1,snare,artist drumkits/Snares-A/Snare (Love To Lay).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,2,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_lofi_short.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,3,snare,artist drumkits/Snares-A/Snare (Carry On).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,4,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 1 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,5,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 17 - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,6,snare,artist drumkits/Snares-A/snare [chop].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,7,snare,artist drumkits/Snares-A/ForestHill Snare 6.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,8,snare,artist drumkits/Snares-A/ForestHill Snare 8.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,9,snare,G.E.D. Soul Sound Library Reel to Reel Drums Vol.1/Snare 25 Ghost - Reel Vol 1.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,10,snare,artist drumkits/Snares-A/ForestHill Snare 7.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,11,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_whack_trash.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,12,snare,artist drumkits/Snares-A/Snare 2 (Lil Nas X - Panini).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,13,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_rizz.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,14,snare,artist drumkits/Snares-A/Snare (Juice WRLD - Legends).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,15,snare,artist drumkits/Snares-A/Snare (Doja Cat - Juicy).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,16,snare,artist drumkits/Snares-A/snare [mozart].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,17,snare,Monte Booker Sounds 3/snareclap/BS SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,18,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_trinket.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,19,snare,Monte Booker Sounds 3/snareclap/RN SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,20,snare,artist drumkits/Snares-A/Snare (The Storm).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,21,snare,artist drumkits/Snares-A/Snare (Lil Tjay x Polo G - Pop Out).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,22,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_layered_full.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,23,snare,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_snare_tamb_rollout.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,24_snares,24,snare,artist drumkits/Snares-A/FUTURA FREE SNARE.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,1,clap,monte booker sounds/blkswn/silk pillows/SP CLAP 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,2,clap,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_clap_crunk.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,3,clap,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_clap_double_trouble.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,4,clap,artist drumkits/Claps-A/Clap 2 (YNW Melly - Murder On My Mind).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,5,clap,artist drumkits/Claps-A/Clap (Hyyerr).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,6,clap,Prrrrrrr Samplebank Vol.1/Snare_Claps/Prrrrrrr - Claps -  (9).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,7,clap,artist drumkits/Claps-A/clap [luger].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,8,clap,artist drumkits/Claps-A/Clap (Dababy - Suge).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,9,clap,monte booker sounds/monte favorites/z4l/Z4L CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,10,clap,artist drumkits/Claps-A/Clap (F--- Love).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,11,clap,artist drumkits/Claps-A/Clap (Juice WRLD - Bandit).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,12,clap,monte booker sounds/sounds tape/astro/ASTRO SAME OLE CLAP MY BAD.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,13,clap,artist drumkits/Snaps-A/snap [idgf].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,14,clap,artist drumkits/Claps-A/clap [zig].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,15,clap,monte booker sounds/soulection white label/homealone/HOME CLAP 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,16,clap,artist drumkits/Claps-A/Clap (Move That Dope).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,17,clap,artist drumkits/Snaps-A/snap [smooky].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,18,clap,monte booker sounds/monte favorites/klink/KLINK CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,19,clap,artist drumkits/Claps-A/Clap (Money Baby).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,20,clap,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Drums/Snares_Claps/KA_SWUNG_clap_clean_micro.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,21,clap,monte booker sounds/monte favorites/may/MAY CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,22,clap,artist drumkits/Claps-A/clap [storch].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,23,clap,monte booker sounds/blkswn/b role/BR LIVE CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,25_claps_snaps,24,clap,monte booker sounds/blkswn/spitshine/SS CLAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,1,hat,artist drumkits/Hi-Hats-A/ForestHill Hat 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,2,hat,Monte Booker Sounds 3/hats/SD HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,3,hat,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_tambourine_dark.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,4,hat,Monte Booker Sounds 3/hats/CRTNS SAW HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,5,hat,G.E.D. Soul Sound Library Reel to Reel Drums Vol.2/Hi Hat 16 Tip - Reel Vol 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,6,hat,artist drumkits/Hi-Hats-A/Hat (Dababy - Intro).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,7,hat,artist drumkits/Hi-Hats-A/Hat (J Cole - Middle Child).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,8,hat,Prrrrrrr_Samplebank_Vol.3/HIHAT_SHAKER/HHT_SHKR_1.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,9,hat,artist drumkits/Hi-Hats-A/Hat 2 (Meg Thee Stallion - Cash Sh!t).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,10,hat,artist drumkits/Hi-Hats-A/Hat 2 (J Cole - No Role Modelz).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,11,hat,artist drumkits/Hi-Hats-A/hh [kwg].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,12,hat,artist drumkits/Hi-Hats-A/Hat (Dababy - Suge).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,13,hat,artist drumkits/Hi-Hats-A/Hi-Hat (Lil Nas X - Panini).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,14,hat,artist drumkits/Hi-Hats-A/Hat 2 (J Cole - Middle Child).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,15,hat,artist drumkits/Hi-Hats-A/hh [ideal].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,16,hat,artist drumkits/Hi-Hats-A/hh [finest].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,17,hat,artist drumkits/Hi-Hats-A/hh [ears].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,18,hat,artist drumkits/Hi-Hats-A/NIGHTS HAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,19,hat,artist drumkits/Hi-Hats-A/Hat (Kid Cudi - Day n Nite).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,20,hat,artist drumkits/Hi-Hats-A/Hat (YNW Melly - 223s).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,21,hat,Monte Booker Sounds 3/hats/RN HAT SIZZLE.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,22,hat,artist drumkits/Hi-Hats-A/hh [copy].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,23,hat,artist drumkits/Hi-Hats-A/Closed Hat (Hyyerr).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,26_hats,24,hat,artist drumkits/Hi-Hats-A/Hi-Hat (3005).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,1,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_filtered.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,2,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_distorted_magic.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,3,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_chant_pitched_down.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,4,perc,Monte Booker Sounds 3/perc/LB SCRATCH.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,5,perc,Monte Booker Sounds 3/perc/B2 GLITCH PERC.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,6,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_8.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,7,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_7.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,8,perc,Monte Booker Sounds 3/perc/3D BEAT.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,9,perc,Monte Booker Sounds 3/perc/LB RIMBA.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,10,perc,Monte Booker Sounds 3/perc/3D LASER.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,11,perc,Monte Booker Sounds 3/perc/boingggggg.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,12,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_13.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,13,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_cluck_pop.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,14,perc,Monte Booker Sounds 3/perc/AL PERC 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,15,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_6.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,16,perc,Monte Booker Sounds 3/perc/ZM ZAP.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,17,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_10.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,18,perc,Monte Booker Sounds 3/perc/B2 BONGO.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,19,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_high_conga_pitch.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,20,perc,Prrrrrrr_Samplebank_Vol.3/PERC/PRC_4.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,21,perc,Monte Booker Sounds 3/perc/B2 LASER.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,22,perc,mai Drum Kit/PERC/Zay Perc.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,23,perc,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Percussion/KA_SWUNG_perc_flam.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,27_percs,24,perc,Monte Booker Sounds 3/perc/HR LASER.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,1,808,artist drumkits/808-A/808 [mouth].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,2,808,artist drumkits/808-A/808 (PUPPET).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,3,808,artist drumkits/808-A/808 [distance].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,4,808,artist drumkits/808-A/808 [tiktiktiktik].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,5,808,Prrrrrrr_Samplebank_Vol.3/808_SUB/808_4.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,6,808,artist drumkits/808-A/808 [nagasaki].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,7,808,artist drumkits/808-A/808 [hiroshima].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,8,808,artist drumkits/808-A/808 [split].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,9,808,Prrrrrrr_Samplebank_Vol.3/808_SUB/808_3.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,10,808,artist drumkits/808-A/808 (Ambjaay - Uno).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,11,808,artist drumkits/808-A/808 (J Cole - Middle Child).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,12,808,artist drumkits/808-A/808 [bodega].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,13,808,artist drumkits/808-A/808 (80 Degrees).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,14,808,artist drumkits/808-A/808 (All I Know).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,15,808,MONTE DISCORD /808s/SadaBaby_-_The_Cave_808.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,16,808,artist drumkits/808-A/808 (For Sale).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,17,808,artist drumkits/808-A/808 [mira long].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,18,808,mai Drum Kit/808/Wonda Eest 808.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,19,808,artist drumkits/808-A/808 (Polo G & Lil Tjay - Pop Out).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,20,808,artist drumkits/808-A/808 (Dababy - Intro).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,21,808,artist drumkits/808-A/808 [happiness].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,22,808,artist drumkits/808-A/808 [ttg].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,23,808,artist drumkits/808-A/808 (OKRA).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,28_808s,24,808,Monte Booker Sounds 3/foley/OXY SUB.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,1,vox,MONTE DISCORD /CC SOUNDPACK VOL1!/VOX/BOO!.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,2,vox,MONTE DISCORD /CC SOUNDPACK VOL1!/VOX/ANYTHING VOX.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,3,vox,mai Drum Kit/VOX/Perfect.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,4,vox,MONTE DISCORD /CC SOUNDPACK VOL1!/VOX/VOX 5 .wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,5,vox,Monte Booker Sounds 3/vox/BS MONTE VOX CHORD.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,6,vox,monte booker sounds/blkswn/spitshine/SS VOX.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,7,vox,monte booker sounds/soulection white label/flight/FLIGHT VOX 4.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,8,vox,monte booker sounds/blkswn/b role/BR OP1 VOX.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,9,vox,mai Drum Kit/VOX/Vox 7.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,10,vox,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Vox/KA_SWUNG_vox_spectrally_warped_ey_C.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,11,vox,monte booker sounds/soulection white label/flight/FLIGHT VOX 6.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,12,vox,monte booker sounds/blkswn/glass flows/GF MONTE VOX.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,13,vox,monte booker sounds/soulection white label/flight/FLIGHT VOX 5.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,14,vox,monte booker sounds/monte favorites/may/MAY VOX 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,15,vox,monte booker sounds/soulection white label/kolors/KOLORS VOX 6.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,16,vox,monte booker sounds/blkswn/ricky millions/RM VOX 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,17,vox,Knock_Audio_-_SWUNG_-_The_Pocket/One_Shots/Vox/KA_SWUNG_vocal_laugh_female.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,18,vox,monte booker sounds/soulection white label/kolors/KOLORS VOX 11.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,19,vox,Monte Booker Sounds 3/vox/3D MONTE RUN.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,20,vox,monte booker sounds/soulection white label/flight/FLIGHT VOX 9.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,21,vox,Monte Booker Sounds 3/vox/OXY VOX RUN.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,22,vox,monte booker sounds/monte favorites/may/MAY VOX 3.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,23,vox,monte booker sounds/soulection white label/kolors/KOLORS VOX 2.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,29_vox_chops,24,vox,monte booker sounds/soulection white label/kolors/KOLORS VOX .wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,1,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (15).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,2,fx,artist drumkits/FX-A/fx [signal].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,3,fx,artist drumkits/FX-A/fx [avatar].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,4,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (22).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,5,fx,artist drumkits/FX-A/fx [trapaholics].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,6,fx,artist drumkits/FX-A/fx [uno].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,7,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (13).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,8,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (17).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,9,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (18).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,10,fx,MONTE DISCORD /! mango juice kit/~ random stuff ~/boing (fx)-24b_1.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,11,fx,artist drumkits/FX-A/fx [leon].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,12,fx,artist drumkits/FX-A/fx [staple].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,13,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (25).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,14,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (6).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,15,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (5).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,16,fx,artist drumkits/FX-A/fx [author].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,17,fx,artist drumkits/FX-A/fx [glock].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,18,fx,artist drumkits/FX-A/fx [flex].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,19,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (7).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,20,fx,artist drumkits/FX-A/misc [gaye].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,21,fx,artist drumkits/FX-A/misc [menace].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,22,fx,artist drumkits/FX-A/misc [peanuts].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,23,fx,Prrrrrrr Samplebank Vol.1/FX_Noise/Prrrrrrr - FX -  (4).wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,30_fx_texture,24,fx,artist drumkits/FX-A/misc [bax].wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,1,full break,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,2,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,3,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,4,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,5,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,6,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,7,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,8,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,9,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,10,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,11,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,12,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,13,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,14,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,15,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,16,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,17,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,18,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,19,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,20,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,21,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,22,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,23,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,31_brk_dusty_shuffle,24,slice,A collection of the kounts free sample packs/breaks/Dusty Shuffle Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,1,full break,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,2,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,3,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,4,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,5,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,6,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,7,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,8,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,9,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,10,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,11,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,12,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,13,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,14,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,15,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,16,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,17,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,18,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,19,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,20,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,21,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,22,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,23,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,drum,mc_racks,32_brk_trulove,24,slice,Kount's Reel Break Library 2 Teaser/Trulove Break.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_eno_piano,,key base 783.99Hz,A collection of the kounts free sample packs/one-shots/one-shots/Eno piano shot 2.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_epiano,,key base 261.63Hz,A collection of the kounts free sample packs/one-shots/one-shots/Electric Piano 1.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_al_rhodes,,key base 73.42Hz,Monte Booker Sounds 3/oneshot/AL RHODES.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_kolors_rhodes,,key base 196.0Hz,monte booker sounds/soulection white label/kolors/KOLORS RHODES.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_prophet_pno,,key base 1046.5Hz,A collection of the kounts free sample packs/one-shots/one-shots/Prophet Piano One Shot.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_vibes,,key base 261.63Hz,A collection of the kounts free sample packs/one-shots/one-shots/Vibraphone .wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_mallet,,key base 138.59Hz,Monte Booker Sounds 3/oneshot/ZM MALLET.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_oak_glass,,key base 1567.98Hz,Monte Booker Sounds 3/oneshot/OAK GLASS.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_piano_oct,,key base 830.61Hz,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/tonal/single note/tiredlights_note_piano_octave_Ab_70.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_bop_pluck,,key base 369.99Hz,A collection of the kounts free sample packs/one-shots/one-shots/Bop Pluck One Shot.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_exotic_pluck,,key base 440.0Hz,A collection of the kounts free sample packs/one-shots/one-shots/Exotic Pluck 2.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_vm_pluck,,key base 440.0Hz,Monte Booker Sounds 3/oneshot/VM PLUCK.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_sitar,,key base 523.25Hz,A collection of the kounts free sample packs/one-shots/one-shots/Sitar One Shot.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_guzheng,,key base 554.37Hz,A collection of the kounts free sample packs/one-shots/one-shots/Blown out Guzheng.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_mono_guitar,,key base 415.3Hz,MONTE DISCORD /tiredlights_soundkit_vol1/sounds/tonal/single note/tiredlights_note_mono_guitar_Ab_90.wav
+set01_2026-11-04,2026-11-04,sampler,mc_keys,ky_bb_guitar,,key base 440.0Hz,Monte Booker Sounds 3/oneshot/BB GUITAR 2.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_op1_saw,,key base 185.0Hz,Monte Booker Sounds 3/oneshot/CRTNS OP1 SAW.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_monte_sine,,key base 1396.91Hz,Monte Booker Sounds 3/oneshot/RGL MONTE SINE.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_crtns_flute,,key base 1108.73Hz,Monte Booker Sounds 3/oneshot/CRTNS FLUTE.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_dream_flute,,pad base 293.66Hz,MONTE DISCORD /CC SOUNDPACK VOL1!/SNYTH/DREAM FLUTE.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_juno_synth,,key base 185.0Hz,MONTE DISCORD /CC SOUNDPACK VOL1!/SNYTH/JUNO SYNTH.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_moog_scream,,key base 523.25Hz,A collection of the kounts free sample packs/one-shots/one-shots/Screamin Moog One Shot.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_epic_horn,,key base 65.41Hz,Prrrrrrr_Samplebank_Vol.2/Brass/Horn Epic C.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_pizz,,key base 261.63Hz,Prrrrrrr_Samplebank_Vol.3/5 YEARS ANNIVERSARY BONUS/CAROLINE P. - BRATSCH ATTACK!!!/articulation/pizzicato/pizz C2.wav
+set01_2026-11-04,2026-11-04,sampler,mc_lead,ld_strings_mid,,pad base 32.7Hz,A collection of the kounts free sample packs/one-shots/one-shots/Strings Mid.wav
+set01_2026-11-04,2026-11-04,sampler,mc_pad,pd_saturated,,pad base 73.42Hz,MONTE DISCORD /CC SOUNDPACK VOL1!/PADS /SATURATED HARMONIC PAD.wav
+set01_2026-11-04,2026-11-04,sampler,mc_pad,pd_nordic_cold,,pad base 739.99Hz,MONTE DISCORD /CC SOUNDPACK VOL1!/PADS /NORDIC COLD .wav
+set01_2026-11-04,2026-11-04,sampler,mc_pad,pd_ocean_cave,,pad base 49.0Hz,MONTE DISCORD /CC SOUNDPACK VOL1!/PADS /OCEAN CAVE EXPLORATION PAD.wav
+set01_2026-11-04,2026-11-04,sampler,mc_bass,bs_moog,,bass base 55.0Hz,A collection of the kounts free sample packs/one-shots/bass/Moog One Shot.wav
+set01_2026-11-04,2026-11-04,sampler,mc_bass,bs_oberheim,,bass base 46.25Hz,A collection of the kounts free sample packs/one-shots/bass/Oberhiem bass.wav
+set01_2026-11-04,2026-11-04,sampler,mc_bass,bs_p_bass,,bass base 77.78Hz,Monte Booker Sounds 3/bass/BJ P BASS.wav
+set01_2026-11-04,2026-11-04,sampler,mc_bass,bs_808_cave,,bass base 34.65Hz,MONTE DISCORD /808s/Boogie_-_The_Cave_808.wav
